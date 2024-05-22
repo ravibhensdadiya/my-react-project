@@ -1,0 +1,25 @@
+.ordercontainer {
+  padding: 20px;
+  margin: 100px;
+}
+body {
+  padding: 0px;
+  padding-bottom: 100px;
+}
+
+table {
+  width: 100%;
+  margin-top: 20px;
+}
+
+th,
+td {
+  text-align: center;
+}
+
+
+.btn-cancel {
+  color: #fff;
+  background-color: #dc3545;
+  border-color: #dc3545;
+}

@@ -1,0 +1,18 @@
+body {
+    font-family: 'Arial', sans-serif;
+}
+.dashboard-container {
+    max-width: 900px;
+    margin: 50px auto;
+}
+.dashboard-image {
+    width: 100%;
+    max-height:fit-content;
+    object-fit: cover;
+}
+.dashboard-description {
+    margin-top: 20px;
+}
+.dashboard-slider {
+    margin-top: 20px;
+}
