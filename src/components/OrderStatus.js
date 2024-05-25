@@ -68,6 +68,7 @@ function OrderStatus() {
               <th>Quantity</th>
               <th>Price</th>
               <th>TotalPrice</th>
+              <th>Address</th>
               <th>Status</th>
               <th>Time</th>
               <th>Action</th>
@@ -80,6 +81,7 @@ function OrderStatus() {
               <td>{product.oqty}</td>
               <td>{product.price}</td>
               <td>{product.totalprice}</td>
+              <td>{product.address}</td>
               <td style={{ fontWeight: 'bold' }}>{renderStatusMessage(product.status)} </td>
               <td>{product.date}</td>
               <td>
