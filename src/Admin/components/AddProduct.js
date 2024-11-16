@@ -44,7 +44,7 @@ function AddProduct() {
 
   return (
     <>
-      <title>Add Product Page</title>
+      {/* <title>Add Product Page</title>
       <div className="add-product-container">
         <h2>Add Product</h2>
         <form onSubmit={handleSubmit}>
@@ -80,7 +80,7 @@ function AddProduct() {
           </button>
         </form>
       </div>
-      <Header />
+      <Header /> */}
     </>
   );
 }
